@@ -1,3 +1,1 @@
-# competitive folder
 
-for COMP
